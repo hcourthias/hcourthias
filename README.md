@@ -7,7 +7,7 @@ Mobile Developer
 * 🌍  I'm based in Toulouse, France
 * ✉️  You can contact me at [hugo.courthias@gmail.com](mailto:hugo.courthias@gmail.com)
 * 🚀  I'm currently working on [Luko](http://luko.eu/)
-* 🧠  I'm learning NextJS, Go
+* 🧠  I'm learning Go, NextJS
 * 🤝  I'm open to collaborating on Any mobile app projects
 
 ### Skills
